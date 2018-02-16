@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>gIT_tEST</name>
+	<comment></comment>
+	<projects>
+		<project>Eclipse-workspace</project>
+		<project>RemoteSystemsTempFiles</project>
+		<project>test</project>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+</projectDescription>
